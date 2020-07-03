@@ -12,13 +12,13 @@ end
 
 def pioneer
   frontier {
-    pioneer: "Grace Hopper"
+    :pioneer "Grace Hopper"
   }
 end
 
 
 def id_hash_generator(number)
   generated {
-    id: number
+    :id number
   }
 end
