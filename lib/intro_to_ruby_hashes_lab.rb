@@ -1,6 +1,6 @@
 def new_hash
   brand_new = {
-    
+
   }
 end
 
