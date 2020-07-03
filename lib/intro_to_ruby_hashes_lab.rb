@@ -11,14 +11,14 @@ def my_hash
 end
 
 def pioneer
-  frontier {
+  frontier = {
     :pioneer => "Grace Hopper"
   }
 end
 
 
 def id_hash_generator(number)
-  generated {
+  generated = {
     :id => number
   }
 end
